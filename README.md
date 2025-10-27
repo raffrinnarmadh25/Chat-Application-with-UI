@@ -4,7 +4,7 @@ A real-time chat application built using React, TypeScript, Tailwind CSS, and Su
 It allows users to register, log in, send and receive messages instantly, and view conversations in a clean, responsive user interface.
 
 
-Project Overview
+# Project Overview
 
 The Chat Application with UI is a dynamic real-time web application developed to facilitate smooth and efficient communication between users through instant messaging. The main purpose of this project is to create an interactive and user-friendly platform where individuals can connect and exchange messages instantly, similar to popular chat applications. Built using modern web technologies such as React, TypeScript, and Tailwind CSS, the frontend offers a visually appealing, responsive, and seamless user experience. On the backend, Supabase plays a crucial role by handling user authentication, database storage, and real-time data synchronization, ensuring that all messages and updates are transmitted instantly between users without manual refreshing.
 
@@ -12,7 +12,7 @@ The application allows users to register, log in, and initiate one-on-one conver
 
 Overall, this project aims to enhance digital communication by providing a responsive, distraction-free environment that prioritizes usability and real-time interaction. It demonstrates the effective integration of frontend and backend technologies to create a functional and scalable communication platform, contributing to the growing need for modern web-based chat solutions in today’s connected world.
 
-Project Report
+# Project Report
 
 The Chat Application with UI project was developed with the goal of providing a reliable, real-time communication platform that simplifies digital interactions between users. The frontend of the application was built using React and TypeScript, which together provide a component-based structure that promotes modularity, reusability, and efficient state management. For styling, Tailwind CSS was used to design a clean, responsive, and modern interface that ensures smooth usability across different screen sizes and devices. On the backend, Supabase serves as the core infrastructure, managing authentication, database storage, and real-time message updates.
 
